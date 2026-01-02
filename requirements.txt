@@ -1,0 +1,5 @@
+svg.py
+black
+flake8
+qrcode
+fpdf2
