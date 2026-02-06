@@ -130,7 +130,7 @@ for i in range(N):
         pdf.set_x(LEFT)
 
     writeLine("QR Code Message:", style="B")
-    writeLine(f"G4G#{i+1:03d}", style="")
+    writeLine(f"G4G16#{i+1:03d}", style="")
     writeLine(" ")
 
     # The blocks message can be used as-is without any modifications, so use it
